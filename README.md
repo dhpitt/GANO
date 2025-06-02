@@ -1,7 +1,19 @@
-# GANO
-This package provide implementation codes developed in the experimental study presented in
+# 📢 DEPRECATION NOTICE 📢  
+----------------------------
 
-Generative Adversarial Neural Operators.
+🚨 **This repository is no longer maintained.** 🚨 The code in this repository is **deprecated** and may not work with newer dependencies or frameworks.  
+For the most up-to-date implementation and continued development, please visit:  
+
+## ➡️ **[NeuralOperator](https://github.com/neuraloperator/neuraloperator)** ⬅️
+
+🔴 We strongly recommend using the latest version to ensure compatibility, performance, and support.🔴  
+
+----------------------------
+
+# GANO: Generative Adversarial Neural Operators
+
+This package provided the code to reproduce experiments and figures from the following papers:
+
 
 https://arxiv.org/abs/2205.03017
 https://openreview.net/pdf?id=X1VzbBU6xZ
